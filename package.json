@@ -15,7 +15,7 @@
     "dist",
     "components",
     "tsd.d.ts",
-    "typings-persist"
+    "typings"
   ],
   "keywords": [
     "angular2",
